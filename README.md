@@ -2,7 +2,7 @@
 
 ![Icon](./store_icon.png)
 
-A simple dark Chrome theme
+A simple dark Chrome theme. [Install Now](https://chrome.google.com/webstore/detail/portable-theme/kpnjidolbnigngilpjbcfedemjdkiflf)
 
 ![Screenshot](./screen_two.png)
 
