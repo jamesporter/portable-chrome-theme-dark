@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "version": "0.1",
+  "name": "Portable",
+  "theme": {
+    "colors": {
+      "frame": [44, 44, 44],
+      "frame_inactive": [55, 55, 55],
+      "toolbar": [22, 22, 22],
+      "button_background": [192, 192, 192],
+      "tab_text": [255, 255, 255],
+      "background_tab": [33, 33, 33],
+      "background_tab_inactive": [44, 44, 44],
+      "tab_background_text": [192, 192, 192],
+      "bookmark_text": [255, 255, 255],
+
+      "tab_background_text_inactive": [178, 178, 178],
+      "tab_background_text_incognito": [178, 178, 178],
+      "tab_background_text_incognito_inactive": [178, 178, 178],
+
+      "frame_incognito": [92, 10, 24],
+      "frame_incognito_inactive": [87, 15, 27],
+      "background_tab_incognito": [0, 0, 0],
+      "background_tab_incognito_inactive": [0, 0, 0]
+    },
+    "tints": {
+      "buttons": [1, 1, 1]
+    },
+    "icons": { "128": "icon128.png" }
+  }
+}
